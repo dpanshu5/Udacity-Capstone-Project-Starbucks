@@ -30,7 +30,8 @@ This repo contains 4 files.There is a notebook available here to showcase work r
 
 Since it was an open project and it had been mentioned that the student are free to create their own questions and answer it using the data, I went ahead and analysed the data for the above mentioned questions.
 All the results and finding are there in the jupyter notebook and medium article which is mentioned at top of this document.
-Final Model: Random Forest with 0.72 F1-score
+Final Model: Random Forest with 0.72 F1-score and 0.72 Accuracy
 
 **Licensing, Acknowledgements, etc.**
+
 Data for project was provided by Udacity. Thank you to Udacity for setting up such a challenging and exciting problem.
