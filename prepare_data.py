@@ -1,4 +1,4 @@
-
+#Python File which contains functions which were used to prepare data for modeling
 
 
 def create_offeranalysis_dataset(profile, portfolio, offer_data, transaction):
