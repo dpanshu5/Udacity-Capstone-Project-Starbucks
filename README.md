@@ -1,4 +1,4 @@
-# Udacity-Capstone-Project-Startbucks
+# Udacity-Capstone-Project-Starbucks
 Capstone project for Udacity's nanodegree course in data science
 
 **Starbucks Capstone Challenge**
