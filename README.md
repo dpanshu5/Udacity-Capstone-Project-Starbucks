@@ -15,9 +15,11 @@ Not all users receive the same offer, and that is the challenge to solve with th
 
 This repo contains 4 files.There is a notebook available here to showcase work related to the above questions and wrangling process. There are 3 data files used to address the above qustions
 
-- portfolio.json - containing offer ids and meta data about each offer (duration, type, etc.)
-- profile.json - demographic data for each customer
-- transcript.json - records for transactions, offers received, offers viewed, and offers completed
+- portfolio.json or csv - containing offer ids and meta data about each offer (duration, type, etc.)
+- profile.json or csv- demographic data for each customer
+- transcript.csv - records for transactions, offers received, offers viewed, and offers completed
+
+- Model Data.csv is the output of the functions in "prepare_data.py" file using which model data was prepared. Since it takes more than 20 minutes to run it in real time I have added its output so that any user could load it and save time 
 
 **Problem Statement**
 
